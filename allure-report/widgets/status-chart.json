@@ -1,0 +1,11 @@
+[ {
+  "uid" : "f3ca3265c89a9ff5",
+  "name" : "Create a User using valid data",
+  "time" : {
+    "start" : 1616597965410,
+    "stop" : 1616597966073,
+    "duration" : 663
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,22 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Create a user in go rest database",
+    "children" : [ {
+      "name" : "Create a User using valid data",
+      "uid" : "f3ca3265c89a9ff5",
+      "parentUid" : "8266c4392ec4b673bc43d8c52d4bd433",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616597965410,
+        "stop" : 1616597966073,
+        "duration" : 663
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "8266c4392ec4b673bc43d8c52d4bd433"
+  } ]
+}
